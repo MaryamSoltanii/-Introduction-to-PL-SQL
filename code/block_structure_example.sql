@@ -1,0 +1,10 @@
+DECLARE
+  v_stock NUMBER := 100;
+BEGIN
+  IF v_stock < 50 THEN
+    DBMS_OUTPUT.PUT_LINE('Low stock!');
+  END IF;
+EXCEPTION
+  WHEN OTHERS THEN
+    DBMS_OUTPUT.PUT_LINE('Error occurred');
+END;
