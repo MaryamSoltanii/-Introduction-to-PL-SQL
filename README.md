@@ -11,7 +11,6 @@
 - [`code/hello_block.sql`](code/hello_block.sql) – simplest PL/SQL block
 - [`code/block_structure_example.sql`](code/block_structure_example.sql) – DECLARE/BEGIN/EXCEPTION/END
 - [`code/variables_constants.sql`](code/variables_constants.sql) – variables and constants
-- [`code/tax_calc_procedure.sql`](code/tax_calc_procedure.sql) – procedure example
 
 
 ## Try it online
