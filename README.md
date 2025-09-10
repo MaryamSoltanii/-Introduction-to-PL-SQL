@@ -7,7 +7,7 @@
 - Practical use cases + a tiny hands-on demo
 
 ## Slides & Demos
-- PDF: [`PLSQL.pdf`](slides/PLSQL.pdf)
+- PDF: [`PLSQL.pdf`](PLSQL.pdf)
 - [`code/hello_block.sql`](code/hello_block.sql) – simplest PL/SQL block
 - [`code/block_structure_example.sql`](code/block_structure_example.sql) – DECLARE/BEGIN/EXCEPTION/END
 - [`code/variables_constants.sql`](code/variables_constants.sql) – variables and constants
