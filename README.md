@@ -20,8 +20,4 @@
 ## Sources
 - Oracle PL/SQL docs  
 - GeeksforGeeks – PL/SQL introduction  
-- (add any other links you used)
 
-## License
-- Slides: **CC BY 4.0**  
-- Code: **MIT**
